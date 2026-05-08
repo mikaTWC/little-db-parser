@@ -1,0 +1,14 @@
+[
+    {
+        "keyword": "abc",
+        "link": "https://example.com/abc"
+    },
+    {
+        "keyword": "товар",
+        "link": "https://example.com/products"
+    },
+    {
+        "keyword": "скидка",
+        "link": "https://example.com/discount"
+    }
+]
